@@ -1,0 +1,35 @@
+D:\Desenvolvimento\RatsRoll\RatsRoll\RatsRoll\obj\Debug\RatsRoll.Corrida.resources
+D:\Desenvolvimento\RatsRoll\RatsRoll\RatsRoll\obj\Debug\RatsRoll.Menu.resources
+D:\Desenvolvimento\RatsRoll\RatsRoll\RatsRoll\obj\Debug\RatsRoll.Properties.Resources.resources
+D:\Desenvolvimento\RatsRoll\RatsRoll\RatsRoll\obj\Debug\RatsRoll.csproj.GenerateResource.Cache
+D:\Desenvolvimento\RatsRoll\RatsRoll\RatsRoll\bin\Debug\RatsRoll.exe.config
+D:\Desenvolvimento\RatsRoll\RatsRoll\RatsRoll\bin\Debug\RatsRoll.exe
+D:\Desenvolvimento\RatsRoll\RatsRoll\RatsRoll\bin\Debug\RatsRoll.pdb
+D:\Desenvolvimento\RatsRoll\RatsRoll\RatsRoll\obj\Debug\RatsRoll.exe
+D:\Desenvolvimento\RatsRoll\RatsRoll\RatsRoll\obj\Debug\RatsRoll.pdb
+D:\Desenvolvimento\RatsRoll\RatsRoll\RatsRoll\bin\Debug\RatsRoll.exe.manifest
+D:\Desenvolvimento\RatsRoll\RatsRoll\RatsRoll\bin\Debug\RatsRoll.application
+D:\Desenvolvimento\RatsRoll\RatsRoll\RatsRoll\obj\Debug\RatsRoll.exe.manifest
+D:\Desenvolvimento\RatsRoll\RatsRoll\RatsRoll\obj\Debug\RatsRoll.application
+D:\Desenvolvimento\RatsRoll\RatsRoll\RatsRoll\obj\Debug\RatsRoll.GanhadorForm.resources
+D:\Desenvolvimento\RatsRoll\RatsRoll\RatsRoll\obj\Debug\RatsRoll.TemposForm.resources
+D:\Desenvolvimento\RatsRoll\RatsRoll\RatsRoll\obj\Debug\RatsRoll.csprojResolveAssemblyReference.cache
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\bin\Debug\RatsRoll.exe.config
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\bin\Debug\RatsRoll.exe.manifest
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\bin\Debug\RatsRoll.application
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\bin\Debug\RatsRoll.exe
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\bin\Debug\RatsRoll.pdb
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\obj\Debug\RatsRoll.csprojResolveAssemblyReference.cache
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\obj\Debug\RatsRoll.TemposForm.resources
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\obj\Debug\RatsRoll.Corrida.resources
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\obj\Debug\RatsRoll.GanhadorForm.resources
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\obj\Debug\RatsRoll.Menu.resources
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\obj\Debug\RatsRoll.Properties.Resources.resources
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\obj\Debug\RatsRoll.csproj.GenerateResource.Cache
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\obj\Debug\RatsRoll.exe.manifest
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\obj\Debug\RatsRoll.application
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\obj\Debug\RatsRoll.exe
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\obj\Debug\RatsRoll.pdb
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\bin\Debug\Resources\Untitled-1-01.png
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\bin\Debug\Resources\background_corrida_full_hd.jpg
+E:\Arquivos Compartilhados MAC\Rats Roll\Codigo Fonte\RatsRoll C#\RatsRoll\bin\Debug\Resources\background_corrida_full_hd.png
